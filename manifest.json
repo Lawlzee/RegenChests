@@ -1,0 +1,12 @@
+﻿{
+  "name": "RegenChests",
+  "version_number": "1.0.0",
+  "website_url": "https://github.com/Lawlzee/RegenChests",
+  "displayName": "RegenChests",
+  "description": "RegenChests is a Risk of Rain 2 mod that substitutes the loot from chests and mobs with Regenerating Scrap, requiring players to utilize printers to obtain standard items.",
+  "dependencies": [
+    "bbepis-BepInExPack-5.4.2108",
+    "RiskofThunder-HookGenPatcher-1.2.3",
+    "Rune580-Risk_Of_Options-2.7.0"
+  ]
+}
